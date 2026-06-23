@@ -8,7 +8,6 @@
 |------|-------|
 | Event | IAG x UTS Tech Fest Hackathon |
 | Dates | Day 1: Mon 23 June 2026, Day 2: Tue 24 June 2026 |
-| Team | Immanuel, Boris, + others TBD |
 | Prizes | $800 (1st), $400 (2nd) |
 | Format | Design thinking: Empathize → Define → Ideate → Prototype → Test → Pitch |
 | Prototype tools suggested | Lovable, Marvel App, Justinmind |

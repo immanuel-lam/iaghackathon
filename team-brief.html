@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>SafeAhead — Project Brief</title>
+<style>
+  @page { margin: 2cm; }
+  body { font-family: -apple-system, 'Segoe UI', sans-serif; max-width: 800px; margin: 0 auto; padding: 40px; color: #1a1a1a; line-height: 1.5; }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  h2 { font-size: 18px; margin-top: 32px; border-bottom: 2px solid #003DA5; padding-bottom: 4px; color: #003DA5; }
+  h3 { font-size: 15px; margin-top: 20px; }
+  .subtitle { font-size: 16px; color: #555; margin-bottom: 24px; }
+  .highlight { background: #e8f0fa; border-left: 4px solid #003DA5; padding: 12px 16px; margin: 16px 0; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 14px; }
+  th, td { border: 1px solid #ddd; padding: 8px 12px; text-align: left; }
+  th { background: #f5f5f5; font-weight: 600; }
+  .pain { background: #fff3e0; border-left: 4px solid #ff9800; padding: 10px 14px; margin: 8px 0; font-size: 14px; }
+  ul, ol { padding-left: 20px; }
+  li { margin-bottom: 6px; }
+  .not-list { background: #fce4ec; border-left: 4px solid #c62828; padding: 10px 14px; margin: 12px 0; font-size: 14px; }
+  .footer { margin-top: 40px; font-size: 12px; color: #888; border-top: 1px solid #ddd; padding-top: 12px; }
+</style>
+</head>
+<body>
+
+<h1>SafeAhead</h1>
+<p class="subtitle">See what's happened. Know what's coming. Protect your home.</p>
+
+<div class="highlight">
+<strong>One-line pitch:</strong> "Enter your home address. See what's actually happened there — floods, storms, fires, break-ins. Know what to do about it."
+</div>
+
+<h2>The Problem</h2>
+<p>When someone buys or owns a home, they have no easy way to see what has actually happened at or near that address. The insurer knows — they've been paying claims there for decades — but the customer is buying blind. They find out their area floods when their living room is underwater.</p>
+
+<div class="highlight">
+<strong>HMW:</strong> "How might we give homeowners transparent, data-backed risk information about their property so they can protect themselves before something goes wrong?"
+</div>
+
+<h2>Customer Pain Points</h2>
+
+<div class="pain"><strong>1. Buying blind</strong> — You buy a house, you don't know it floods every 3 years. The insurer knows (they priced your premium on it) but you never see the data.</div>
+<div class="pain"><strong>2. No context for premiums</strong> — Premium goes up 30%. You don't know why. Is it your area? Your roof? A claim 5 years ago? No explanation, just a bigger bill.</div>
+<div class="pain"><strong>3. Risks are invisible until they hit</strong> — You don't know your suburb has had 47 hail claims in the last 2 years until your car is dented. The pattern was there — nobody showed you.</div>
+<div class="pain"><strong>4. Prevention is guesswork</strong> — Should you clear gutters? Get a roof inspection? Install a sump pump? Without knowing what goes wrong at properties like yours, you're guessing.</div>
+<div class="pain"><strong>5. Data exists but is locked away</strong> — Flood maps, bushfire ratings, claims density, weather history — it all exists. None of it is presented to the customer in a useful way.</div>
+
+<p><strong>Root cause:</strong> Risk data is used to price policies (insurer benefit) but never shared with the customer to help them act (customer benefit).</p>
+
+<h2>Core Insight</h2>
+<div class="highlight">
+The data already exists. Flood records, storm damage history, bushfire zones, claims patterns — all public or insurer-held. The problem isn't generating new data. It's that nobody puts it in front of the homeowner in a clear, address-specific, actionable way.
+</div>
+
+<h2>The Solution</h2>
+<p>A data transparency tool for home insurance. Enter your address, see your risk profile based on real historical data.</p>
+
+<h3>What you get:</h3>
+<ol>
+<li><strong>What has happened here</strong> — flood events, storm damage, bushfire proximity, break-ins, hail, subsidence. From public records (BOM, SES, RFS, councils, ICA, police stats).</li>
+<li><strong>How often</strong> — frequency and recency. "Flooded 3 times in 10 years" is different from "once, 18 years ago."</li>
+<li><strong>What that means for your home</strong> — plain-language summary. "Your area has high storm exposure. Most common damage: roof/gutter from hail."</li>
+<li><strong>What you can do</strong> — specific prevention steps tied to what actually goes wrong here. Not generic tips.</li>
+</ol>
+
+<h3>What this is NOT:</h3>
+<div class="not-list">
+Not a chatbot. Not "AI-powered" marketing. Not personalised profiling. Not a policy comparison tool. Not real-time alerts.<br>
+<strong>It's a data transparency tool.</strong> Look up your address. See what's happened. Know what to watch for.
+</div>
+
+<h2>Data Sources (public, real)</h2>
+<table>
+<tr><th>Source</th><th>Provides</th></tr>
+<tr><td>BOM</td><td>Historical weather events, storm records, rainfall extremes</td></tr>
+<tr><td>SES</td><td>Flood rescues, storm callouts by area</td></tr>
+<tr><td>RFS</td><td>Bushfire history, BAL ratings</td></tr>
+<tr><td>Council flood maps</td><td>Flood zone classification, historical flood levels</td></tr>
+<tr><td>ABS / Police</td><td>Break-in rates by area</td></tr>
+<tr><td>ICA</td><td>Declared catastrophe events, regional claims data</td></tr>
+<tr><td>Geoscience Australia</td><td>Soil subsidence, coastal erosion, earthquake zones</td></tr>
+</table>
+
+<h2>MVP Features (for demo)</h2>
+<ol>
+<li><strong>Address input</strong> — enter an address, get a risk profile</li>
+<li><strong>Incident timeline</strong> — visual history of events in the area (5–20 years)</li>
+<li><strong>Risk breakdown</strong> — categorised: flood, storm, fire, theft, subsidence. With frequency data.</li>
+<li><strong>Action list</strong> — top 3 things to protect your property, backed by what actually happens here</li>
+</ol>
+
+<h3>Stretch Features</h3>
+<ul>
+<li>Compare two addresses (useful when house hunting)</li>
+<li>Seasonal patterns ("Storms peak here in November")</li>
+<li>Policy gap highlighting based on your actual local risks</li>
+<li>Neighbourhood heatmap view</li>
+</ul>
+
+<h2>Target Persona</h2>
+<p><strong>Sarah, 28.</strong> First-time homeowner in Penrith (Western Sydney). NRMA home + contents insurance. Doesn't know the area floods. Doesn't know what to maintain. Premium seems expensive but she doesn't know why.</p>
+
+<h2>Why This Wins (mapped to judging criteria)</h2>
+<table>
+<tr><th>Criterion</th><th>Weight</th><th>Our angle</th></tr>
+<tr><td>Customer Value & Impact</td><td><strong>/20</strong></td><td>Solves "buying blind." Enables prevention = safer homes. Data-backed, not opinions. Empowers decisions.</td></tr>
+<tr><td>Creative & Responsible Tech</td><td>/10</td><td>Aggregates public data into one useful view. Responsible by design — no surveillance, no profiling. Transparent.</td></tr>
+<tr><td>Pitch & Communication</td><td>/5</td><td>Dead simple: "Enter your address, see what's happened, know what to do." Visual, immediate demo.</td></tr>
+<tr><td>Thinking & Iteration</td><td>/5</td><td>Testable Day 1 — show people their own address, ask "useful? what's missing?" Iterate on what matters.</td></tr>
+</table>
+
+<h2>Business Case (for IAG)</h2>
+<ul>
+<li>Informed customers prevent damage → fewer claims</li>
+<li>Transparency builds trust → customer retention</li>
+<li>Reduces surprise claim denials (customer already knows their gaps)</li>
+<li>Differentiator: no insurer shows this data plainly today</li>
+<li>Natural upsell: "Your area has high flood risk — your policy doesn't include flood cover"</li>
+</ul>
+
+<h2>Open Questions</h2>
+<ul>
+<li>How far back for incident history? (5yr / 10yr / 20yr)</li>
+<li>Show a "risk score" or avoid reductive scoring?</li>
+<li>Which data sources to pull live vs. simulate for demo?</li>
+<li>Tech stack for prototype</li>
+</ul>
+
+<div class="footer">
+IAG x UTS Tech Fest Hackathon 2026 &nbsp;|&nbsp; SafeAhead
+</div>
+
+</body>
+</html>

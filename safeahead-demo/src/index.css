@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --navy: #010c66;
+  --dark-navy: #00084e;
+  --mid-blue: #343d85;
+  --cream: #f7f1ea;
+  --off-white: #fdfaf9;
+  --cool-gray: #f2f3f9;
+  --light-border: #d9dbe9;
+  --input-border: #8f8a8a;
+  --muted-text: #6b6b6b;
+  --green: #91bf9e;
+  --yellow-green: #d7d667;
+  --salmon: #f9ae97;
+  --error-red: #a93532;
+  --shadow-card: rgba(72,70,69,0.1) 0px 1px 6px, rgba(72,70,69,0.06) 0px 1px 2px;
+
+  --font-display: 'Poppins', Helvetica, Arial, sans-serif;
+  --font-body: 'Inter', Helvetica, Arial, sans-serif;
+
+  --radius-pill: 64px;
+  --radius-card: 24px;
+  --radius-input: 12px;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  color: var(--navy);
+}

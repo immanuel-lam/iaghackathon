@@ -1,0 +1,251 @@
+.event-detail-page {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.event-detail-header {
+  background: var(--navy);
+  padding: 32px 24px 40px;
+}
+
+.event-detail-header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.event-detail-title {
+  font-size: 32px;
+  color: var(--cream);
+  margin: 8px 0;
+}
+
+.event-detail-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.event-detail-address {
+  font-size: 14px;
+  color: var(--cream);
+  opacity: 0.7;
+}
+
+.event-detail-body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 24px 64px;
+  width: 100%;
+}
+
+.event-detail-tags {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.event-cat-tag {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 12px;
+  border-radius: 20px;
+}
+
+.event-section {
+  margin-bottom: 36px;
+}
+
+.event-section-heading-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.event-section-heading-row .event-section-heading {
+  margin-bottom: 0;
+}
+
+.event-section-tags {
+  display: flex;
+  gap: 6px;
+}
+
+.event-section-heading {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--navy);
+  margin-bottom: 12px;
+}
+
+.event-definition {
+  font-size: 15px;
+  color: var(--muted-text);
+  line-height: 1.6;
+}
+
+.event-exclusions {
+  font-size: 14px;
+  color: var(--muted-text);
+  line-height: 1.6;
+  background: #fdf2f2;
+  border-radius: 12px;
+  padding: 16px 20px;
+  border-left: 3px solid #a93532;
+}
+
+.pds-source {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 11px;
+  color: var(--muted-text);
+  opacity: 0.7;
+  font-style: italic;
+}
+
+.tag-plus {
+  background: #f3e8ff;
+  color: #6b21a8;
+}
+
+.event-chart-subtitle {
+  font-size: 13px;
+  color: var(--muted-text);
+  margin-bottom: 12px;
+}
+
+/* Stats Grid */
+.event-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.event-stat-card {
+  background: var(--off-white);
+  border-radius: 16px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.event-stat-value {
+  font-family: var(--font-display);
+  font-size: 28px;
+  font-weight: 500;
+  color: var(--navy);
+}
+
+.event-stat-label {
+  font-size: 13px;
+  color: var(--muted-text);
+}
+
+/* Chart */
+.event-chart {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  height: 220px;
+  padding: 24px 16px 16px;
+  background: var(--off-white);
+  border-radius: 16px;
+  position: relative;
+}
+
+.event-chart::before {
+  content: '';
+  position: absolute;
+  left: 16px;
+  right: 16px;
+  bottom: 52px;
+  height: 1px;
+  background: var(--light-border);
+}
+
+.chart-bar-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  height: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.chart-bar-container {
+  flex: 1;
+  width: 100%;
+  max-width: 56px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 4px;
+}
+
+.chart-bar {
+  width: 100%;
+  border-radius: 8px 8px 4px 4px;
+  min-height: 6px;
+  transition: height 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+  position: relative;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.chart-bar:hover {
+  opacity: 0.85;
+  transform: scaleY(1.02);
+  transform-origin: bottom;
+}
+
+.chart-label {
+  font-size: 12px;
+  color: var(--muted-text);
+  font-weight: 500;
+  letter-spacing: -0.2px;
+}
+
+.chart-value {
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--navy);
+  background: #fff;
+  padding: 2px 8px;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+/* Incidents */
+.event-incidents {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.event-incident-item {
+  background: #fff;
+  border-radius: 12px;
+  padding: 16px 20px;
+  box-shadow: var(--shadow-card);
+  border-left: 3px solid var(--navy);
+}
+
+.event-incident-date {
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--mid-blue);
+}
+
+.event-incident-desc {
+  font-size: 14px;
+  color: var(--muted-text);
+  line-height: 1.5;
+  margin-top: 4px;
+}

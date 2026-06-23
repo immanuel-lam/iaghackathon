@@ -1,0 +1,136 @@
+.sa-address-page {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.sa-hero {
+  background: var(--navy);
+  padding: 48px 24px 56px;
+}
+
+.sa-hero-content {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.sa-back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: none;
+  border: none;
+  color: var(--cream);
+  font-family: var(--font-body);
+  font-size: 14px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+
+.sa-back-link:hover {
+  opacity: 1;
+}
+
+.sa-hero-content h1 {
+  font-size: 40px;
+  line-height: 1.15;
+  color: var(--cream);
+  margin-bottom: 12px;
+}
+
+.sa-subtitle {
+  font-size: 16px;
+  color: var(--cream);
+  opacity: 0.8;
+  line-height: 1.5;
+}
+
+.sa-form-container {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 48px 24px;
+}
+
+.sa-card {
+  background: #fff;
+  border-radius: 24px;
+  box-shadow: 0 1px 6px rgba(72, 70, 69, 0.1);
+  padding: 40px;
+  width: 100%;
+  max-width: 520px;
+}
+
+.sa-label {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--navy);
+  margin-bottom: 8px;
+}
+
+.sa-input-wrapper {
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.sa-icon {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.sa-input {
+  width: 100%;
+  height: 48px;
+  background: var(--off-white);
+  border: 1px solid var(--input-border);
+  border-radius: 12px;
+  padding: 0 16px 0 44px;
+  font-family: var(--font-body);
+  font-size: 16px;
+  color: #000;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.sa-input:focus {
+  border-color: var(--navy);
+  box-shadow: 0 0 0 2px rgba(1, 12, 102, 0.1);
+}
+
+.sa-btn-continue {
+  width: 100%;
+  height: 48px;
+  background: var(--navy);
+  color: var(--cream);
+  font-family: var(--font-body);
+  font-size: 16px;
+  font-weight: 500;
+  border: 2px solid var(--navy);
+  border-radius: 64px;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.sa-btn-continue:hover {
+  opacity: 0.9;
+}
+
+.sa-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--light-border);
+  font-size: 14px;
+  color: var(--muted-text);
+  line-height: 1.4;
+}

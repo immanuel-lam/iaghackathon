@@ -1,0 +1,266 @@
+{
+  "theft_or_attempted_theft": {
+    "definition": "We cover loss or damage caused by theft or attempted theft.",
+    "coverageDetails": "Covers loss or damage to Building (Plus and Standard) and Contents (Plus and Standard) caused by theft or attempted theft. Must report any theft or attempted theft to the police and provide the report number and details of when and where the report was made.",
+    "exclusions": "We do not cover theft or attempted theft by: You; Your Family; anyone who normally lives in Your Home including a tenant; or anyone who enters Your Home or the Site with the consent of You, Your Family or anyone who normally lives in Your Home.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "deliberate_or_intentional_act": {
+    "definition": "We cover loss or damage by a deliberate or intentional act (including vandalism and a malicious act).",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard). Must report any deliberate or intentional act to the police and provide the report number and details of when and where the report was made.",
+    "exclusions": "We will not cover any deliberate or intentional act by: You; Your Family; anyone who normally lives in Your Home including a tenant; or anyone who enters Your Home or the Site with the consent of You, Your Family or anyone who normally lives in Your Home.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "riot_or_civil_commotion": {
+    "definition": "We cover loss or damage caused by a riot, civil commotion or industrial or political disturbance.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "We will not cover loss or damage caused by: You; Your Family; anyone who normally lives in Your Home including a tenant; or anyone who enters Your Home or the Site with the consent of You, Your Family or anyone who normally lives in Your Home.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "animal_damage": {
+    "definition": "We cover loss or damage caused by animals not kept at the Site.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "We will not cover loss or damage by any animal that You or anyone who lives at the Home or Site has permitted to be at the Site.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "identity_theft": {
+    "definition": "If You discover during the Period of Insurance that someone stole Your identity and used it without Your consent to get a financial benefit, We will cover the following costs: the reasonable legal costs You need to pay in Australia as a result of the identity theft to defend court proceedings wrongly brought against You, attempt to set aside judgements wrongly made against You, prepare documents which confirm Your identity was stolen, and remove incorrect entities on credit referencing bureau lists; and the fees charged by Australian Government organisations to replace documents (passport, driver's licence, birth certificate, certificate of title, proof of age card).",
+    "coverageDetails": "Available for Contents Plus and Contents Standard. We will pay up to $5,000 if You have Plus cover; or $2,500 if You have Standard cover. This additional benefit is payable in addition to the General Contents Sum Insured. You must provide evidence that Your identity has been stolen and used to obtain a financial benefit. You should seek Our agreement before incurring any out-of-pocket expenses.",
+    "exclusions": "We will not cover: identity theft by, or theft arranged by, any of Your Family or anyone who normally lives in Your Home; or paying a debt that resulted from the identity theft.",
+    "building": false,
+    "contents": true,
+    "plusOnly": false
+  },
+  "replacement_of_keys_and_locks": {
+    "definition": "If the keys or access codes to an external door or window lock of Your Home have been lost or stolen, or it is reasonable for You to believe that the keys or access codes of an external door or window lock of Your Home have been lost or stolen, during the Period of Insurance, We will pay the reasonable costs to repair, replace and recode the keys, locks, barrels, fobs or keypads.",
+    "coverageDetails": "Available for Building Plus, Building Standard, Contents Plus, and Contents Standard. No Excess is payable for a claim made only under this additional benefit. If You have Building and Contents insurance, We will only pay this benefit once for each Incident. You must report any theft or suspected theft to the police and provide the report number and details.",
+    "exclusions": "No specific exclusions listed beyond general exclusions. Must report suspected theft to police.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "visitors_belongings": {
+    "definition": "If visitors' belongings that are inside Your Home suffer loss or damage during the Period of Insurance as a result of an Incident that You are covered for under 'Cover for loss or damage to Your Home and Contents', We will also cover the loss or damage to Your visitors' belongings as a result of that Incident.",
+    "coverageDetails": "Available for Contents Plus and Contents Standard only. We will pay up to $2,500 for any one Incident. This additional benefit is payable in addition to the General Contents Sum Insured.",
+    "exclusions": "We will not cover Money.",
+    "building": false,
+    "contents": true,
+    "plusOnly": false
+  },
+  "legal_liability_away_from_home": {
+    "definition": "If You have 'Contents' insurance, We will cover the legal liability of You and Your Family for: death or bodily injury to someone else; and loss or damage to someone else's property, for an Incident during the Period of Insurance that takes place outside the Site but within Australia. Also covers a Family Member temporarily living away from Home while engaged in full-time study within Australia.",
+    "coverageDetails": "Available for Contents Plus and Contents Standard. We will provide cover up to a maximum of $20,000,000 (inclusive of GST and all legal costs) (the Liability Limit) for any one Incident. We will also pay all legal costs and expenses incurred with Our prior written consent. If You are a tenant or own Your Home under a Strata or similar scheme, We will cover the legal liability of You and Your Family for death or bodily injury and loss or damage to property for Incidents at the Home or the Site.",
+    "exclusions": "We do not cover: claims by You or Your Family; claims by any person who lives with You or Your Family except when that person is a tenant or boarder; loss or damage to any property owned or in the physical or legal control of You or Your Family (exceptions for tenants); liability arising from motor vehicle, motorcycle, mini-bike, caravan or trailer, aircraft including any drone, watercraft over 4m or under 4m with motor over 10hp, jet skis; liability in connection with alterations/repair/renovation/addition over $75,000; liability connected with asbestos; liability in connection with Common Property; exemplary or punitive damages; fines or court costs; liability from accepting liability without Our consent; death or bodily injury to employees; professional sporting activity; transmission of a disease; landslide/subsidence/earth movement; Your Home being used for farming; an Incident caused by an animal except Pet dogs/cats/horses kept at Your Home or Site, or a Pet horse kept off-site on agistment.",
+    "building": false,
+    "contents": true,
+    "plusOnly": false
+  },
+  "legal_liability_at_the_home": {
+    "definition": "If You have 'Building' insurance, We will cover the legal liability of You and Your Family for: death or bodily injury to someone else; and loss or damage to someone else's property, for an Incident during the Period of Insurance at the Home or the Site and for which You or Your Family are responsible as the owner or occupier of the Home or the Site.",
+    "coverageDetails": "Available for Building Plus, Building Standard, Contents Plus, and Contents Standard. We will provide cover up to a maximum of $20,000,000 (inclusive of GST and all legal costs) (the Liability Limit) for any one Incident. We will also pay all legal costs and expenses incurred with Our prior written consent. If We settle a claim as a Total Loss, cover continues until earliest of: 12 months from date of Total Loss settlement; date You sell the Site; date You commence building work; date You obtain other insurance.",
+    "exclusions": "Same as liability away from home: claims by You/Family; property owned or controlled by You/Family; motor vehicles, aircraft, watercraft; alterations over $75,000; asbestos; Common Property; exemplary/punitive damages; fines; accepted liability without consent; employee injuries; professional sport; disease transmission; landslide/subsidence; farming use; animal incidents (except Pets).",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "earthquake": {
+    "definition": "We cover loss or damage caused by: earthquake; and landslide or subsidence that happens within 72 hours of, and as a direct result of, an earthquake.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "General exclusions apply. Landslide or subsidence only covered if it happens within 72 hours of and as a direct result of the earthquake.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "flood_or_rainwater_runoff": {
+    "definition": "We cover loss or damage caused by: Flood or Rainwater Run-off; and landslide or subsidence that happens within 72 hours of, and as a direct result of, Flood or Rainwater Run-off. Flood means the covering of normally dry land by water that has escaped or been released from the normal confines of a lake, river, creek, another natural watercourse (whether or not altered or modified), a reservoir, a canal, or a dam. Rainwater Run-off means water that flows over the ground, or backs-up, as a result of a Storm. Rainwater Run-off does not include Flood.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "We will not cover loss or damage to: retaining walls; gates, fences or free-standing walls if the loss or damage was caused because they were not structurally sound or well-maintained; pontoons, jetties or bridges; gravel driveways; swimming pool covers or spa covers that are more than 5 years old; pool and spa solar covers or liners; erosion, deterioration, collapse, shrinkage or any other earth movement; Actions of the Sea; or loss or damage caused by escape of water or liquid, Storm, Storm Surge or tsunami.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "storm": {
+    "definition": "We cover loss or damage caused by: Storm; and landslide or subsidence that happens within 72 hours of, and as a direct result of, Storm. Storm means: rain, thunderstorm, hail or snow; or violent wind, cyclone or tornado.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "We do not cover: loss or damage caused by escape of water or liquid, Flood, Rainwater Run-off, Storm Surge or tsunami; erosion, deterioration, collapse, shrinkage or any other earth movement; Actions of the Sea; or loss or damage to: retaining walls; gates, fences or free-standing walls if not structurally sound or well-maintained; pontoons, jetties or bridges; gravel driveways; swimming pool/spa covers more than 5 years old; pool and spa solar covers or liners.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "storm_surge_or_tsunami": {
+    "definition": "We cover loss or damage caused by: Storm Surge or tsunami; and landslide or subsidence that happens within 72 hours of, and as a direct result of, Storm Surge or tsunami. Storm Surge means an increase in sea level that occurs because of an intense Storm or cyclone and associated waves.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "We do not cover: loss or damage caused by escape of water or liquid, Flood, Rainwater Run-off or Storm; erosion, deterioration, collapse, shrinkage or any other earth movement; Actions of the Sea; or loss or damage to: retaining walls; gates, fences or free-standing walls if not structurally sound or well-maintained; pontoons, jetties or bridges; gravel driveways; swimming pool/spa covers more than 5 years old; pool and spa solar covers or liners.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "lightning": {
+    "definition": "We cover loss or damage caused by: lightning; and power surge only as a result of lightning.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "General exclusions apply. Power surge only covered if it is a result of lightning.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "impact": {
+    "definition": "We cover loss or damage caused by the impact of: external aerials, masts, flagpoles and satellite dishes; aircraft, vehicles and watercraft; debris from space, aircraft, rockets and satellites; and trees and branches.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard). If You have Building insurance and a tree at the Site causes loss or damage to Your Home and a qualified expert agrees it needs to be removed, We will pay the costs to cut down and remove the tree and treat the stump so it doesn't grow.",
+    "exclusions": "We will not cover: loss or damage caused by tree cutting, lopping or felling at the Site unless the cutting, lopping or felling is performed by a professional; costs to remove the stump; costs to cut down or remove a tree if it didn't cause any loss or damage to Your Home or Contents.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "fire_or_bushfire": {
+    "definition": "We cover loss or damage caused by fire or bushfire.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "We will not cover: any fire that was started with the intention to cause damage by You, Your Family, anyone who normally lives in Your Home including a tenant, or anyone who enters Your Home or the Site with the consent of You, Your Family or anyone who normally lives in Your Home; or loss or damage which results from scorching or melting where there is no flame.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "landscaping": {
+    "definition": "If an Incident that You are covered for under 'Cover for loss or damage to Your Home and Contents' causes loss or damage to Your plants, trees, shrubs or hedges at the Site during the Period of Insurance, We will pay the costs to replace the plants, trees, shrubs or hedges that were growing in the ground with seedlings of the same or similar species.",
+    "coverageDetails": "Available for Building Plus and Building Standard only. We will pay up to: $3,000 if You have Plus cover; or $1,500 if You have Standard cover. This additional benefit is payable in addition to the Building Sum Insured.",
+    "exclusions": "We will not cover: plants, trees, shrubs or hedges You are growing for commercial purposes; loss or damage to a lawn; pot plants or planters; or soil washing away.",
+    "building": true,
+    "contents": false,
+    "plusOnly": false
+  },
+  "escape_of_water_or_liquid": {
+    "definition": "We cover loss or damage caused by: water or liquid leaking or escaping from gutters, drainpipes or pipes at the Site; water or liquid leaking or escaping from water mains, water supply pipes, baths, spa baths, sinks, toilets, bidets, sanitary fixtures, appliances, aquariums, water tanks or swimming pools; liquid leaking from a fixed heating system or sealed portable heater; and landslide or subsidence that happens within 72 hours of, and as a direct result of, liquid leaking as covered in this event.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "We will not cover: the cost of repairing the item that caused the leak or escape or the item that the water or liquid leaked or escaped from; the cost of fixing or finding leaks that have not caused loss or damage to Your Home or Contents; loss or damage caused by Flood, Rainwater Run-off, Storm, Storm Surge or tsunami; erosion, deterioration, collapse, shrinkage or any other earth movement; or loss or damage caused by water or liquid leaking or escaping from a shower recess or shower base.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "accidental_breakage_of_glass": {
+    "definition": "We cover Accidental breakage with a fracture through its entire thickness of: glass panels in fixtures, cooktop and oven doors and vitreous china or acrylic or fibreglass fixed shower bases, baths, spa baths, sinks, toilets, bidets and sanitary fixtures in Your Home if you have Building insurance; and fixed glass in Your furniture including outdoor furniture, fixed glass in a light fitting, fixed glass in a mirror or picture and the frame of a broken mirror or picture at the Site if You have Contents insurance.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard). We will also cover the reasonable costs to reconnect any electrical components to a damaged item We have agreed to cover.",
+    "exclusions": "We will not cover: water or sewerage pipes; or any loss or damage caused by the broken item.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "electrical_motor_burnout": {
+    "definition": "We will cover burnout of an electrical motor that is part of Your: Home and costs for the service call, parts and labour charges if You have Building insurance; and General Contents and costs for the service call, parts and labour charges if You have Contents insurance, that occurs during the Period of Insurance.",
+    "coverageDetails": "Automatically included for Building Plus and Contents Plus. Optional (additional Premium required) for Building Standard and Contents Standard. We will only cover electric motors that are up to 15 years old. We will also cover You for up to: $2,000 if You have Plus cover, or $500 if You have Standard cover, to replace any spoiled food or prescription medication in a refrigerator or freezer that we have covered under this optional benefit. This optional benefit is included in the Building Sum Insured and/or General Contents Sum Insured (as applicable).",
+    "exclusions": "We do not cover: any damage to an electric motor that is covered by a warranty; an electric motor that You use for a business, trade or profession, or is not kept at Your Home or Site; or any costs to remove or re-install submerged or underground motors.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "locating_the_cause_of_damage": {
+    "definition": "If loss or damage to Your Home occurs during the Period of Insurance caused by a Listed Event that You are covered for under 'Cover for loss or damage to Your Home and Contents', We will cover the reasonable costs of locating the source of the loss or damage and the reasonable costs of loss or damage to Your Home caused by the work to locate the source.",
+    "coverageDetails": "Available for Building Plus and Building Standard only. To be entitled to cover the costs must relate directly to the part of Your Home that suffered loss or damage from the Listed Event. You should seek Our agreement before incurring any out-of-pocket expenses.",
+    "exclusions": "We will only pay reasonable costs up to the amount We would have agreed to pay had You obtained Our prior agreement.",
+    "building": true,
+    "contents": false,
+    "plusOnly": false
+  },
+  "explosion": {
+    "definition": "We cover loss or damage caused by: explosion; and landslide or subsidence that happens within 72 hours of, and as a direct result of, an explosion, provided there is physical evidence of the explosion.",
+    "coverageDetails": "Covers Building (Plus and Standard) and Contents (Plus and Standard).",
+    "exclusions": "General exclusions apply. Must have physical evidence of the explosion.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "accidental_damage": {
+    "definition": "We will cover Your Home if You have Building insurance; and Your General Contents and Your Valuable Contents if You have Contents insurance, for loss or damage occurring during the Period of Insurance caused by Accident. Accident or Accidental means a sudden, unexpected and unintended event which was not intended or expected by You or anyone else insured under this Policy.",
+    "coverageDetails": "Automatically included for Building Plus and Contents Plus. Optional (additional Premium required) for Building Standard and Contents Standard. You are only insured for Contents when they are inside Your Home except as specifically provided for under any additional benefits or optional benefits. This optional benefit is included in the Building Sum Insured and/or General Contents Sum Insured (as applicable).",
+    "exclusions": "We do not cover any: damage caused by inherent defects and structural defects; mildew and algae; water entering Your Home through an opening made for the purpose of alterations, additions, renovations or repairs; any animals kept at the Site; any process of cleaning involving the use of chemicals; loss or damage that is covered under a Listed Event set out in the Cover for loss or damage to Your Home and Contents section; damage to retaining walls; electronic equipment or data as a result of an electronic malfunction or failure, a mechanical malfunction or failure, or a virus or processing error; fishing and sporting equipment, musical instruments or firearms while someone is using them; wear and tear, gradual deterioration or depreciation.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "temporary_accommodation": {
+    "definition": "If Your Home or Contents suffer loss or damage in an Incident We have agreed to cover under 'Cover for loss or damage to Your Home and Contents' and You are unable to live in Your Home as a result of the Incident, We will cover: the costs of temporary accommodation that are reasonable for You, Your Family and Your Pets that You normally keep at the Site (if owner) or extra rent costs (if tenant); any additional living expenses that are necessary, reasonable and appropriate to Your circumstances; and the costs to remove and store Your Contents and return them to Your home.",
+    "coverageDetails": "Available for Building Plus, Building Standard, Contents Plus, and Contents Standard. We will pay up to: if You have Plus cover, 20% of the Building Sum Insured or 20% of the Contents Sum Insured if You only have General Contents insurance; or if You have Standard cover, 10% of the Building Sum Insured or 10% of the General Contents Sum Insured if You only have Contents insurance. Duration: Plus cover - 24 months from the time of the Incident; Standard cover - 12 months from the time of the Incident; or when Your Home is repaired or replaced (whichever is earliest). This additional benefit is payable in addition to the Building or General Contents Sum Insured. You must have lived in Your Home permanently before the Incident.",
+    "exclusions": "We will not cover or We will reduce the amount that We pay if: You do not need to pay for temporary accommodation; or You receive any payment for rent or accommodation from another source. We will not cover: any costs that are covered by an insurance policy taken out by an owners corporation or similar body; or additional costs for unreasonable delays caused by You or any repairer, builder or supplier You appoint or engage in repairing or rebuilding Your Home.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "storage_costs": {
+    "definition": "If Your Home that You live in suffers loss or damage as a result of an Incident We have agreed to cover under 'Cover for loss or damage to Your Home and Contents' and as a result of that Incident You are unable to live in Your Home, We will pay the reasonable costs to store Your Contents for up to: 24 months if You have Plus cover; or 12 months if You have Standard cover, while You are unable to live in Your Home.",
+    "coverageDetails": "Available for Contents Plus and Contents Standard only. This additional benefit is payable in addition to the General Contents Sum Insured. We will also cover Your Contents while they are in storage provided that cover for Your Contents while they are in storage is included within the General Contents Sum Insured.",
+    "exclusions": "General exclusions apply.",
+    "building": false,
+    "contents": true,
+    "plusOnly": false
+  },
+  "food_spoilage": {
+    "definition": "If an event that You are covered for under 'Cover for loss or damage to Your Home and Contents' causes an interruption to the electricity supply at Your Home and food or prescription medication in Your refrigerator or freezer is spoiled during the Period of Insurance, We will pay the costs to replace the spoiled food or prescription medication.",
+    "coverageDetails": "Available for Contents Plus and Contents Standard. We will pay up to: $2,000 if You have Plus cover; or $500 if You have Standard cover. This additional benefit is payable in addition to the General Contents Sum Insured. You are not required to pay an Excess for a claim under this additional benefit.",
+    "exclusions": "We will not cover: breakdown or failure that is not caused by an event that You are covered for under 'Cover for loss or damage to Your Home and Contents'; or loss or damage to a refrigerator or freezer.",
+    "building": false,
+    "contents": true,
+    "plusOnly": false
+  },
+  "funeral_expenses": {
+    "definition": "If You or a member of Your Family dies: within 90 days of; and as a direct result of, an Incident at the Site occurring during the Period of Insurance that You are covered for under 'Cover for loss or damage to Your Home and Contents', We will pay for funeral expenses.",
+    "coverageDetails": "Available for Building Plus, Building Standard, Contents Plus, and Contents Standard. We will pay up to: $15,000 if You have Plus cover; or $10,000 if You have Standard cover, for each Incident. This additional benefit is payable in addition to the Building or General Contents Sum Insured (as applicable). If You have Building and Contents insurance, We will only pay this benefit once for each Incident. You are required to provide documentation to support Your claim (death certificate, police report, coroner's report and/or records).",
+    "exclusions": "General exclusions apply.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "removal_of_debris": {
+    "definition": "If Your Home or Contents suffer loss or damage as a result of an Incident We have agreed to cover under 'Cover for loss or damage to Your Home and Contents', We will also cover the costs required as a result of the loss or damage to: demolish and remove debris and make the Site safe if You have Building insurance; and remove Contents from the Site if You have Contents insurance.",
+    "coverageDetails": "Available for Building Plus, Building Standard, Contents Plus, and Contents Standard. We will pay up to: 10% of the Building Sum Insured to demolish and remove Building debris and make the Site safe if You have Building insurance; and 10% of the General Contents Sum Insured to remove Contents from the Site if You have Contents insurance. This additional benefit is payable in addition to the Building or General Contents Sums Insured (as applicable). You should seek Our agreement before incurring any out-of-pocket expenses.",
+    "exclusions": "We will only pay reasonable costs up to the amount We would have agreed to pay had You obtained Our prior agreement.",
+    "building": true,
+    "contents": true,
+    "plusOnly": false
+  },
+  "professional_and_rebuilding_fees": {
+    "definition": "If Your Home suffers loss or damage as a result of an Incident We have agreed to cover under 'Cover for loss or damage to Your Home and Contents', We will pay: the reasonable costs of employing an architect, engineer or surveyor; the legal fees that arise from rebuilding; and any fees to meet the requirements of a statutory authority.",
+    "coverageDetails": "Available for Building Plus and Building Standard only. You should seek Our agreement before incurring any out-of-pocket expenses.",
+    "exclusions": "We will not cover: fees for rebuilding any part of the Home that was an illegal construction; any fees or costs that You were ordered or required to pay or comply with before the loss or damage occurred; any costs relating to undamaged parts of Your Home; or any costs that You would have been required to meet if the loss or damage had not occurred.",
+    "building": true,
+    "contents": false,
+    "plusOnly": false
+  },
+  "safety_net": {
+    "definition": "If Your Home suffers loss or damage as a result of an Incident We have agreed to cover under 'Cover for loss or damage to Your Home and Contents' and the cost to repair or rebuild Your Home is higher than the Building Sum Insured, We will pay the reasonable extra costs to repair or rebuild Your Home up to 25% of the Building Sum Insured.",
+    "coverageDetails": "Available for Building Plus only. This additional benefit is payable in addition to the Building Sum Insured. For example, a widespread disaster leads to a high demand for building services which increases Your rebuilding costs. If You have Plus cover and Your Building Sum Insured is $300,000 then We would provide up to $75,000 on top of Your Building Sum Insured to cover those extra costs.",
+    "exclusions": "General exclusions apply. Only available for Building Plus cover.",
+    "building": true,
+    "contents": false,
+    "plusOnly": true
+  },
+  "contents_away_from_home": {
+    "definition": "We will cover Your General Contents for loss or damage occurring during the Period of Insurance caused by an event that You are covered for under 'Cover for loss or damage to Your Home and Contents' while the General Contents have been temporarily removed from Your Home or Site and are inside: a building with walls and a roof (but not a caravan or mobile home) within Australia for a period of 60 days or less but only if You are residing in that building, or are lending the General Contents to someone else for personal use at their home or site; or a safety deposit box at a bank within Australia.",
+    "coverageDetails": "Available for Contents Plus and Contents Standard. We will pay up to 20% of the General Contents Sum Insured.",
+    "exclusions": "We will not cover: computers and related equipment; personal electronic devices or Portable Electronic Devices; Works of Art; music, games or movies (CDs, DVDs, records, tapes, game cartridges, discs of any sort or legally downloaded digital media); Collections; Jewellery and Watches; Tools of Trade; Money; Unattached Accessories; computer software; or title deeds, passports, bonds or negotiable documents.",
+    "building": false,
+    "contents": true,
+    "plusOnly": false
+  },
+  "contents_in_transit": {
+    "definition": "We will cover Your Contents for loss or damage occurring during the Period of Insurance caused by: fire, lightning or explosion; theft following violent or forced entry; Storm or Flood; cyclone, earthquake, Storm Surge and tsunami; and collision of the vehicle that is transporting the Contents, while the Contents are in transit from Your Home to a new permanent home in Australia or a storage facility in Australia.",
+    "coverageDetails": "Available for Contents Plus and Contents Standard. We will not cover Your Contents while they are in storage whilst in transit.",
+    "exclusions": "We will not cover Contents while they are in storage whilst in transit. Only covers specific listed perils (fire, lightning, explosion, theft with forced entry, storm, flood, cyclone, earthquake, storm surge, tsunami, vehicle collision).",
+    "building": false,
+    "contents": true,
+    "plusOnly": false
+  },
+  "students_living_away_from_home": {
+    "definition": "We will cover the Contents of a Family Member who normally lives with You at Your Home which is Your permanent residence while they are temporarily living away from Your Home while they are engaged in full-time study within Australia. The Contents will be covered under the terms and conditions of this Policy as if the Family Member's temporary residence was Your Home but We will only cover Valuable Contents as General Contents.",
+    "coverageDetails": "Available for Contents Plus and Contents Standard. We will pay up to $5,000.",
+    "exclusions": "We will not cover: Money; loss or damage from theft or attempted theft unless this is from a secure building or room within a building with walls and a roof and follows forced and violent entry to that building; or lost or misplaced items.",
+    "building": false,
+    "contents": true,
+    "plusOnly": false
+  }
+}

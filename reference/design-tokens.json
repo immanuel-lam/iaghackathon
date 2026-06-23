@@ -1,0 +1,1378 @@
+{
+  "colors": [
+    {
+      "hex": "#010c66",
+      "count": 5850
+    },
+    {
+      "hex": "#ffffff",
+      "count": 489
+    },
+    {
+      "hex": "#808080",
+      "count": 376
+    },
+    {
+      "hex": "#f7f1ea",
+      "count": 312
+    },
+    {
+      "hex": "#000000",
+      "count": 209
+    },
+    {
+      "hex": "#00084e",
+      "count": 170
+    },
+    {
+      "hex": "#fdfaf9",
+      "count": 62
+    },
+    {
+      "hex": "#f2f3f9",
+      "count": 30
+    },
+    {
+      "hex": "#91bf9e",
+      "count": 29
+    },
+    {
+      "hex": "#343d85",
+      "count": 28
+    },
+    {
+      "hex": "#d9dbe9",
+      "count": 22
+    },
+    {
+      "hex": "#212529",
+      "count": 21
+    },
+    {
+      "hex": "#a93532",
+      "count": 21
+    },
+    {
+      "hex": "#8f8a8a",
+      "count": 13
+    },
+    {
+      "hex": "#eaedf3",
+      "count": 10
+    },
+    {
+      "hex": "#101010",
+      "count": 8
+    },
+    {
+      "hex": "#6b6b6b",
+      "count": 7
+    },
+    {
+      "hex": "#d7d667",
+      "count": 6
+    },
+    {
+      "hex": "#cccee0",
+      "count": 6
+    },
+    {
+      "hex": "#f2efef",
+      "count": 5
+    },
+    {
+      "hex": "#f9ae97",
+      "count": 2
+    },
+    {
+      "hex": "#666eb4",
+      "count": 2
+    },
+    {
+      "hex": "#222222",
+      "count": 1
+    },
+    {
+      "hex": "#f2f2f2",
+      "count": 1
+    }
+  ],
+  "fonts": [
+    "\"Help Type Text Web\", Helvetica, Arial",
+    "\"Help Type Display Web\", Helvetica, Arial",
+    "icomoon",
+    "Graphik, Helvetica, Arial, sans-serif",
+    "Times",
+    "Arial, Helvetica, sans-serif",
+    "Roboto, sans-serif"
+  ],
+  "fontSizes": [
+    {
+      "size": "16px",
+      "count": 6142
+    },
+    {
+      "size": "18px",
+      "count": 437
+    },
+    {
+      "size": "14px",
+      "count": 173
+    },
+    {
+      "size": "28px",
+      "count": 59
+    },
+    {
+      "size": "40px",
+      "count": 40
+    },
+    {
+      "size": "12px",
+      "count": 25
+    },
+    {
+      "size": "24px",
+      "count": 20
+    },
+    {
+      "size": "21px",
+      "count": 6
+    },
+    {
+      "size": "56px",
+      "count": 5
+    },
+    {
+      "size": "64px",
+      "count": 4
+    },
+    {
+      "size": "48px",
+      "count": 4
+    },
+    {
+      "size": "20px",
+      "count": 3
+    },
+    {
+      "size": "0px",
+      "count": 2
+    },
+    {
+      "size": "46px",
+      "count": 1
+    },
+    {
+      "size": "120px",
+      "count": 1
+    },
+    {
+      "size": "32px",
+      "count": 1
+    },
+    {
+      "size": "15.2px",
+      "count": 1
+    }
+  ],
+  "borderRadii": [
+    "64px",
+    "0px 0px 24px 24px",
+    "24px",
+    "12px",
+    "4px",
+    "4.8px",
+    "48px 48px 0px 0px",
+    "24px 24px 0px 0px",
+    "8px",
+    "16px",
+    "48px",
+    "5px",
+    "1440px",
+    "13px",
+    "2px",
+    "0px 2px 2px 0px"
+  ],
+  "shadows": [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(72, 70, 69, 0.1) 0px 1px 6px 0px, rgba(72, 70, 69, 0.06) 0px 1px 2px 0px",
+    "rgb(128, 128, 128) 0px 0px 10px 0px",
+    "rgba(0, 0, 0, 0.14) 0px 4px 5px 0px, rgba(0, 0, 0, 0.12) 0px 1px 10px 0px, rgba(0, 0, 0, 0.2) 0px 2px 4px -1px"
+  ],
+  "buttons": [
+    {
+      "text": "Get a quote",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "64px",
+      "padding": "4px 24px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Make a claim",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "64px",
+      "padding": "4px 24px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Car & Vehicle",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "18px",
+      "fontWeight": "500",
+      "borderRadius": "0px",
+      "padding": "0px 8px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Help & Support",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Contact Us",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Make a claim",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Make a payment",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Home & Property",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "18px",
+      "fontWeight": "500",
+      "borderRadius": "0px",
+      "padding": "0px 8px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Help & Support",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Contact Us",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Make a claim",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Make a payment",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Business",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "18px",
+      "fontWeight": "500",
+      "borderRadius": "0px",
+      "padding": "0px 8px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Help & Support",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Contact Us",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Make a claim",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Make a payment",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Travel",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "18px",
+      "fontWeight": "500",
+      "borderRadius": "0px",
+      "padding": "0px 8px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Help & Support",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Contact Us",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "text": "Get a quote",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "64px",
+      "padding": "4px 24px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Make a claim",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "64px",
+      "padding": "4px 24px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Car & Vehicle",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "18px",
+      "fontWeight": "500",
+      "borderRadius": "0px",
+      "padding": "0px 8px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Help & Support",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Contact Us",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Make a claim",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Make a payment",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Home & Property",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "18px",
+      "fontWeight": "500",
+      "borderRadius": "0px",
+      "padding": "0px 8px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Help & Support",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Contact Us",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Make a claim",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Make a payment",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Business",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "18px",
+      "fontWeight": "500",
+      "borderRadius": "0px",
+      "padding": "0px 8px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Help & Support",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Contact Us",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Make a claim",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Make a payment",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "4px",
+      "padding": "4px 12px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Travel",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "18px",
+      "fontWeight": "500",
+      "borderRadius": "0px",
+      "padding": "0px 8px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Help & Support",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Contact Us",
+      "bg": "rgba(255, 255, 255, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "text": "Forgot password?",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "quotePage"
+    },
+    {
+      "text": "Need help?",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "border": "0px none rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "quotePage"
+    },
+    {
+      "text": "Next",
+      "bg": "rgb(1, 12, 102)",
+      "color": "rgb(247, 241, 234)",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "borderRadius": "64px",
+      "padding": "8px 24px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "quotePage"
+    },
+    {
+      "text": "Register as a new user",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "borderRadius": "64px",
+      "padding": "8px 24px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "quotePage"
+    },
+    {
+      "text": "Register a new business account",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(1, 12, 102)",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "borderRadius": "64px",
+      "padding": "8px 24px",
+      "border": "2px solid rgb(1, 12, 102)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "quotePage"
+    },
+    {
+      "text": "Ask NomiCan I help?",
+      "bg": "rgb(0, 8, 78)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "borderRadius": "16px",
+      "padding": "0px 7px 0px 0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "textTransform": "none",
+      "letterSpacing": "normal",
+      "page": "quotePage"
+    }
+  ],
+  "inputs": [
+    {
+      "type": "text",
+      "bg": "rgb(253, 250, 249)",
+      "color": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(143, 138, 138)",
+      "borderRadius": "12px",
+      "padding": "0px 16px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "text",
+      "bg": "rgb(253, 250, 249)",
+      "color": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(143, 138, 138)",
+      "borderRadius": "12px",
+      "padding": "0px 48px 0px 16px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(118, 118, 118)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(128, 128, 128)",
+      "border": "1px solid rgba(118, 118, 118, 0.3)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(128, 128, 128)",
+      "border": "1px solid rgba(118, 118, 118, 0.3)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(118, 118, 118)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(128, 128, 128)",
+      "border": "1px solid rgba(118, 118, 118, 0.3)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(128, 128, 128)",
+      "border": "1px solid rgba(118, 118, 118, 0.3)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(118, 118, 118)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(128, 128, 128)",
+      "border": "1px solid rgba(118, 118, 118, 0.3)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homepage"
+    },
+    {
+      "type": "text",
+      "bg": "rgb(253, 250, 249)",
+      "color": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(143, 138, 138)",
+      "borderRadius": "12px",
+      "padding": "0px 16px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homeInsurance"
+    },
+    {
+      "type": "text",
+      "bg": "rgb(253, 250, 249)",
+      "color": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(143, 138, 138)",
+      "borderRadius": "12px",
+      "padding": "0px 48px 0px 16px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homeInsurance"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(118, 118, 118)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homeInsurance"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(128, 128, 128)",
+      "border": "1px solid rgba(118, 118, 118, 0.3)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homeInsurance"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(128, 128, 128)",
+      "border": "1px solid rgba(118, 118, 118, 0.3)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homeInsurance"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(118, 118, 118)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homeInsurance"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(128, 128, 128)",
+      "border": "1px solid rgba(118, 118, 118, 0.3)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homeInsurance"
+    },
+    {
+      "type": "select",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(128, 128, 128)",
+      "border": "1px solid rgba(118, 118, 118, 0.3)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "auto",
+      "page": "homeInsurance"
+    },
+    {
+      "type": "text",
+      "bg": "rgb(253, 250, 249)",
+      "color": "rgb(1, 12, 102)",
+      "border": "1px solid rgb(143, 138, 138)",
+      "borderRadius": "2px",
+      "padding": "0px 12px",
+      "fontSize": "16px",
+      "height": "48px",
+      "page": "quotePage"
+    },
+    {
+      "type": "password",
+      "bg": "rgb(253, 250, 249)",
+      "color": "rgb(1, 12, 102)",
+      "border": "1px solid rgb(143, 138, 138)",
+      "borderRadius": "2px",
+      "padding": "0px 48px 0px 12px",
+      "fontSize": "16px",
+      "height": "48px",
+      "page": "quotePage"
+    },
+    {
+      "type": "checkbox",
+      "bg": "rgb(242, 239, 239)",
+      "color": "rgb(143, 138, 138)",
+      "border": "0px none rgb(143, 138, 138)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "fontSize": "16px",
+      "height": "48px",
+      "page": "quotePage"
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Australia’s most trusted insurance brand, 4 years in a row",
+      "fontSize": "46px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(247, 241, 234)",
+      "lineHeight": "55.2px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h2",
+      "text": "Get $150 off a new Comprehensive Car Insurance Policy6 onlin",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h2",
+      "text": "Save up to 10% when you buy online1",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h2",
+      "text": "Insurance to cover a whole range of things in life",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h3",
+      "text": "Car & Vehicle",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(247, 241, 234)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h3",
+      "text": "Home & Property",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h3",
+      "text": "Business",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h3",
+      "text": "Travel",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h2",
+      "text": "Already have a policy with us?",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h2",
+      "text": "Why choose NRMA Insurance?",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(247, 241, 234)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h3",
+      "text": "Lifetime guarantee",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h3",
+      "text": "Award-winning insurance",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h3",
+      "text": "100 years of help",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h2",
+      "text": "Home loans built on help",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h2",
+      "text": "Stay informed. Get inspired.",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homepage"
+    },
+    {
+      "tag": "h1",
+      "text": "Home Insurance",
+      "fontSize": "56px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "61.6px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h2",
+      "text": "Get a quote online",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(247, 241, 234)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h2",
+      "text": "Get up to 10% off when you buy an eligible policy online1",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h2",
+      "text": "What is home insurance?",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Australians choose NRMA Home Insurance",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(247, 241, 234)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h3",
+      "text": "Cover if you forget to lock up",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h3",
+      "text": "Temporary accommodation",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h3",
+      "text": "Lifetime guarantee",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h2",
+      "text": "Home Insurance policy options",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h3",
+      "text": "Home Buildings Insurance",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h3",
+      "text": "Home Contents Insurance",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h3",
+      "text": "Home Buildings and Contents Insurance",
+      "fontSize": "28px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "33.6px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h2",
+      "text": "Choose how to pay",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h2",
+      "text": "Australian cover, made for Australian conditions",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h3",
+      "text": "Earthquake",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "30.48px",
+      "letterSpacing": "normal",
+      "page": "homeInsurance"
+    },
+    {
+      "tag": "h1",
+      "text": "Log in to your NRMA Insurance Online Account",
+      "fontSize": "32px",
+      "fontWeight": "500",
+      "fontFamily": "\"Help Type Display Web\", Helvetica, Arial",
+      "color": "rgb(1, 12, 102)",
+      "lineHeight": "41.6px",
+      "letterSpacing": "normal",
+      "page": "quotePage"
+    }
+  ]
+}
